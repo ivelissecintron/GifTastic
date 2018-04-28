@@ -1,4 +1,25 @@
 body {
-    background-image: url("../images/theofficebanner.jpg");
-    background-repeat: no-repeat;
+    background-image: url("../images/linen.png");
+    font-family: 'Nixie One', cursive;
+    font-weight: bold;
 }
+
+.item {
+    max-height: 200px;
+    max-width: 200px;
+    font-family: 'Nixie One', cursive;
+    font-weight: bold;
+    float: top;
+}
+
+#office-form,
+#officebuttons,
+.jumbotron,
+#container {
+    font-family: 'Nixie One', cursive;
+    font-weight: bolder;
+    text-align: center;
+}
+
+
+
